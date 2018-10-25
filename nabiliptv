@@ -2,20 +2,13 @@
 
 #EXTINF:-1,********* Bangladesh TV *********
 
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/26368.ts
-#EXTINF:-1,BDL:ATN Bangla
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26408.ts
 #EXTINF:-1,BD:ATN BANGLA BD
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/16577.ts
-#EXTINF:-1,BDL:ATN Islamic TV
+
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26407.ts
 #EXTINF:-1,BD:ATN ISLAMIC
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16576.ts
 #EXTINF:-1,BD:ATN NEWS
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/16573.ts
-#EXTINF:-1,BDL:ATN News
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/26405.ts
-#EXTINF:-1,BDL:ATN Music
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26406.ts
 #EXTINF:-1,BANGALADESH Movies @ Full HD
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/17932.ts
@@ -136,6 +129,15 @@ http://portal.simiptv.com:8001/live/sadi/Sadi1234/16549.ts
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16553.ts
 #EXTINF:-1,BDL:CHANNEL S (UK)
 #EXTINF:-1,-----Bangla TV Local--------
+
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/26368.ts
+#EXTINF:-1,BDL:ATN Bangla
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/16577.ts
+#EXTINF:-1,BDL:ATN Islamic TV
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/16573.ts
+#EXTINF:-1,BDL:ATN News
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/26405.ts
+#EXTINF:-1,BDL:ATN Music
 
 #EXTINF:-1,BDL: My Cinema
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26381.ts
