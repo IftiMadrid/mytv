@@ -2,26 +2,6 @@
 
 #EXTINF:-1,********* Bangladesh TV *********
 
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/8298.ts
-#EXTINF:-1,BD: ATN BANGLA UK
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/14879.ts
-#EXTINF:-1,BD:NTV Europe (UK)
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/15038.ts
-#EXTINF:-1,BD:STAR JALSHA >uk<
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/15048.ts
-#EXTINF:-1,BD:ZEE BANGLA UK
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/15046.ts
-#EXTINF:-1,BDL:Channel S UK
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/26396.ts
-#EXTINF:-1,BD:CHANNEL UK
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/14878.ts
-#EXTINF:-1,BD:TV ONE UK
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/16555.ts
-#EXTINF:-1,BDL:NTV Europe
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/26377.ts
-#EXTINF:-1,BDL:ON TV(UK)
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/26391.ts
-#EXTINF:-1,BDL:TVoneUK
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26368.ts
 #EXTINF:-1,BDL:ATN Bangla
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26408.ts
@@ -76,8 +56,6 @@ http://portal.simiptv.com:8001/live/sadi/Sadi1234/15043.ts
 #EXTINF:-1,BD::24 GHANTA
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16551.ts
 #EXTINF:-1,BD::JALSHA MOVIES
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/16549.ts
-#EXTINF:-1,BD:Bangla tv UK
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16572.ts
 #EXTINF:-1,BD:BOISAKHI TV
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16571.ts
@@ -86,8 +64,6 @@ http://portal.simiptv.com:8001/live/sadi/Sadi1234/16570.ts
 #EXTINF:-1,BD:Channel 52
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16554.ts
 #EXTINF:-1,BD:CHANNEL I
-http://portal.simiptv.com:8001/live/sadi/Sadi1234/16553.ts
-#EXTINF:-1,BDL:CHANNEL S (UK)
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16569.ts
 #EXTINF:-1,BD:DBC NEWS
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16568.ts
@@ -133,6 +109,34 @@ http://portal.simiptv.com:8001/live/sadi/Sadi1234/16550.ts
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16548.ts
 #EXTINF:-1,bangla IQRA BANGLA
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/16547.ts
+#EXTINF:-1,-----Bangla TV UK--------
+
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/8298.ts
+#EXTINF:-1,BD: ATN BANGLA UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/14879.ts
+#EXTINF:-1,BD:NTV Europe (UK)
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/15038.ts
+#EXTINF:-1,BD:STAR JALSHA >uk<
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/15048.ts
+#EXTINF:-1,BD:ZEE BANGLA UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/15046.ts
+#EXTINF:-1,BDL:Channel S UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/26396.ts
+#EXTINF:-1,BD:CHANNEL UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/14878.ts
+#EXTINF:-1,BD:TV ONE UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/16555.ts
+#EXTINF:-1,BDL:NTV Europe
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/26377.ts
+#EXTINF:-1,BDL:ON TV(UK)
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/26391.ts
+#EXTINF:-1,BDL:TVoneUK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/16549.ts
+#EXTINF:-1,BD:Bangla tv UK
+http://portal.simiptv.com:8001/live/sadi/Sadi1234/16553.ts
+#EXTINF:-1,BDL:CHANNEL S (UK)
+#EXTINF:-1,-----Bangla TV Local--------
+
 #EXTINF:-1,BDL: My Cinema
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26381.ts
 #EXTINF:-1,BDL:Al Dawah TV
@@ -205,7 +209,8 @@ http://portal.simiptv.com:8001/live/sadi/Sadi1234/26370.ts
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/26369.ts
 #EXTINF:-1,********* INDIAN TV *********
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/5233.ts
-#EXTINF:-1,-----Asian-UK(TIME)-----
+#EXTINF:-1,-----Asian-(TIME)-----
+
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/12948.ts
 #EXTINF:-1,& TV (UK)
 http://portal.simiptv.com:8001/live/sadi/Sadi1234/14724.ts
